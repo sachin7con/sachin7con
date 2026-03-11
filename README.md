@@ -15,7 +15,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**. I
 ### 📫 Connect with me:
 - **LinkedIn:** [link-to-your-linkedin]
 - **Portfolio:** [link-to-your-portfolio]
-- **Email:** sachinku.se@example.com
+- **Email:** sachinku.se@gmail.com
 
 ---
 *“I believe in writing clean, maintainable code and learning something new every single day.”*
