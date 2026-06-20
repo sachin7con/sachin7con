@@ -9,13 +9,14 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**. I
 - **Tools:** Git, GitHub, Postman, Vercel, Render
 
 ### 🌟 Featured Projects
-- **[E-commerce Platform](link-to-repo):** A full-stack store with JWT auth and Stripe integration.
-- **[Auth-Todo App](link-to-repo):** Secure task management with private routes and Redux state.
+- **[E-commerce Platform](https://myekart.netlify.app):** A full-stack store with JWT auth and Stripe integration.
+- **[Auth-Todo App](https://mern-todo-sooty-ten.vercel.app):** Secure task management with private routes and Redux state.
 
 ### 📫 Connect with me:
-- **LinkedIn:** [link-to-your-linkedin]
-- **Portfolio:** [link-to-your-portfolio]
+- **LinkedIn:** https://linkedin.com/in/sachin7con
 - **Email:** sachinku.se@gmail.com
+<!-- - **Portfolio:** [link-to-your-portfolio] --->
+
 
 ---
 *“I believe in writing clean, maintainable code and learning something new every single day.”*
