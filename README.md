@@ -9,7 +9,7 @@ I am a passionate **Full-Stack Developer** specializing in the **MERN Stack**. I
 - **Tools:** Git, GitHub, Postman, Vercel, Render
 
 ### 🌟 Featured Projects
-- **[E-commerce Platform](https://myekart.netlify.app):** A full-stack store with JWT auth and Stripe integration.
+- **[E-commerce Platform](https://myekart.netlify.app):** A full-stack store with JWT auth and Razorpay integration.
 - **[Auth-Todo App](https://mern-todo-sooty-ten.vercel.app):** Secure task management with private routes and Redux state.
 
 ### 📫 Connect with me:
